@@ -81,7 +81,6 @@ This project was built to demonstrate:
 
 ## 🚀 Future Improvements
 
-- Backend synchronization
 - Cloud data storage
 - Modularization
 - Unit testing layer
