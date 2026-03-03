@@ -96,8 +96,8 @@ This project was built to demonstrate:
   <img src="screenshots/stats.png" width="22%" />
   <img src="screenshots/filter.png" width="22%" />
 </p>
----
 
+---
 ## 📌 Philosophy
 
 NoZeroDay is more than a task tracker —  
