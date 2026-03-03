@@ -88,6 +88,15 @@ This project was built to demonstrate:
 - Performance benchmarking
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="22%" />
+  <img src="screenshots/add.png" width="22%" />
+  <img src="screenshots/filter.png" width="22%" />
+  <img src="screenshots/stats.png" width="22%" />
+</p>
+---
 
 ## 📌 Philosophy
 
